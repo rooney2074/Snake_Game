@@ -14,8 +14,8 @@ body{
     background: #E3f2fd;
 }
 .wrapper{
-    width: 65vmin;
-    height: 70vmin;
+    width: 75vmin;
+    height: 80vmin;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -39,7 +39,6 @@ body{
 }
 .play-board .food{
     background: red;
-    border-radius: 50%;
 }
 .play-board .head{
     background: rgb(63, 114, 255);
